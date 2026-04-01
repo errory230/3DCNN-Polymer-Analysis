@@ -1,5 +1,4 @@
-Deep Learning–Based Prediction of Polymer Transfection Efficiency
-
+**Deep Learning–Based Prediction of Polymer Transfection Efficiency**
 This repository contains the code used in the study:
 
 “Predicting Polymer Drug Delivery Efficiency Using 3D Molecular Structures and Deep Learning”
