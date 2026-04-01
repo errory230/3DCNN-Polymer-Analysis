@@ -2,7 +2,7 @@
 
 This repository contains the code used in the study:
 
-“Predicting Polymer Drug Delivery Efficiency Using 3D Molecular Structures and Deep Learning”
+<h3><i>Predicting Polymer Drug Delivery Efficiency Using 3D Molecular Structures and Deep Learning</i></h3>
 
 which presents a three-dimensional convolutional neural network (3D CNN) framework for predicting the transfection efficiency of polymer-based delivery systems for nucleic acid therapeutics.
 
